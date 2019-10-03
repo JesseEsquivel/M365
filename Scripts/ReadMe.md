@@ -1,5 +1,5 @@
 # M365
-Office 365 US. Government Defense
+Office 365 U.S. Government Defense
 
 # Various Things
 A collection of scripts and items used for M365 in IL5.
