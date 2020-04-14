@@ -4,7 +4,6 @@
 # -Function to add DoD Roots and Intermediates (exported from installroot) to AzureAD Tenant for Legacy Certificate Based authN
 # -01/29/2020
 # -jesse.esquivel@microsoft.com
-# -Credit to @Mike Bayes for the code snip
 #
 # Microsoft Disclaimer for custom scripts
 # ========================================
